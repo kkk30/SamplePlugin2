@@ -1,13 +1,15 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "samplePlugin",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ]
+    "Author": "kkk30",
+    "Name": "Sample Plugin",
+    "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+    "Punchline": "Larger personal debuffs",
+    "InternalName": "SamplePlugin",
+    "AssemblyVersion": "Version",
+    "RepoUrl": "https://github.com/kkk30/SamplePlugin2",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+    "ImageUrls": [
+        "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
+    ],
+    "Changelog": "* v1.1.0.9\n * 6.5 Dalamud Update\n"
 }
